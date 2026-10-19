@@ -1,0 +1,10 @@
+<!-- @dsCard group="Marca" height=200 subtitle="Set de 18 íconos de línea" -->
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Icono</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,800;1,900&display=swap"></head>
+<body>
+<div id="root"></div>
+<script>
+var V=window.Villacres,h=React.createElement;
+ReactDOM.createRoot(document.getElementById('root')).render(h(React.Fragment,null,h('div',{className:'vc-row',style:{color:'var(--selva-700)'}},V.ICONOS.map(function(n){return h('div',{key:n,style:{display:'grid',justifyItems:'center',gap:6,width:88,fontSize:11,fontWeight:600}},h(V.Icono,{name:n,size:40}),n)}))));
+</script>
+</body></html>

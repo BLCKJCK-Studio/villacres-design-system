@@ -1,0 +1,10 @@
+<!-- @dsCard group="Marca" height=230 subtitle="Fondo de greca andina en tres densidades" -->
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Greca</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,800;1,900&display=swap"></head>
+<body>
+<div id="root"></div>
+<script>
+var V=window.Villacres,h=React.createElement;
+ReactDOM.createRoot(document.getElementById('root')).render(h(React.Fragment,null,h('div',{className:'vc-row'},['sutil','media','protagonista'].map(function(d){return h(V.Greca,{key:d,density:d,style:{width:200,height:140,background:'var(--crema-50)',display:'grid',placeItems:'end start',padding:10,fontWeight:700,fontSize:12,color:'var(--selva-700)'}},d)}),h(V.Greca,{on:'dark',density:'media',style:{width:200,height:140,background:'var(--selva-700)'}}))));
+</script>
+</body></html>

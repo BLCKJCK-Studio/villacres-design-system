@@ -1,0 +1,561 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-09-29T14:25:44Z"
+ },
+ "title": "Mesías Villacrés 2026",
+ "namespace": "Villacres",
+ "libraries": [
+  {
+   "name": "react",
+   "version": "18"
+  },
+  {
+   "name": "react-dom",
+   "version": "18"
+  }
+ ],
+ "sections": {},
+ "groups": [
+  "Logos",
+  "Isotipo",
+  "Fotografia",
+  "Iconos",
+  "Patrones",
+  "Movimiento",
+  "Plantillas"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "tile": "l",
+   "order": [
+    "logo-apilado-full.png",
+    "logo-apilado-negativo.png",
+    "logo-apilado-mono-selva.png",
+    "logo-apilado-mono-blanco.png",
+    "logo-apilado-mono-negro.png",
+    "logo-compacto-full.png",
+    "logo-compacto-negativo.png",
+    "logo-compacto-mono-selva.png",
+    "logo-compacto-mono-blanco.png",
+    "logo-compacto-mono-negro.png",
+    "logo-horizontal-full.png",
+    "logo-horizontal-negativo.png",
+    "logo-horizontal-mono-selva.png",
+    "logo-horizontal-mono-blanco.png",
+    "logo-horizontal-mono-negro.png"
+   ],
+   "files": {
+    "logo-apilado-full.png": {
+     "name": "logo-apilado-full.png",
+     "blob": "336200a14af1c09d9b0207c9a0beda6f",
+     "size": 135482,
+     "type": "image/png"
+    },
+    "logo-apilado-mono-blanco.png": {
+     "name": "logo-apilado-mono-blanco.png",
+     "blob": "ca07fbb7b7e7e8a21732a9921f8d3fed",
+     "size": 130508,
+     "type": "image/png"
+    },
+    "logo-apilado-mono-negro.png": {
+     "name": "logo-apilado-mono-negro.png",
+     "blob": "f94acd4fdd4fb72b97faab036af368fe",
+     "size": 121241,
+     "type": "image/png"
+    },
+    "logo-apilado-mono-selva.png": {
+     "name": "logo-apilado-mono-selva.png",
+     "blob": "f1a15cba7c1b4927c715a1a8dd7bab29",
+     "size": 131704,
+     "type": "image/png"
+    },
+    "logo-apilado-negativo.png": {
+     "name": "logo-apilado-negativo.png",
+     "blob": "80773703b3825940725f57206470df4c",
+     "size": 133766,
+     "type": "image/png"
+    },
+    "logo-compacto-full.png": {
+     "name": "logo-compacto-full.png",
+     "blob": "8029ef6e52282cb10da8ac90429880ce",
+     "size": 111637,
+     "type": "image/png"
+    },
+    "logo-compacto-mono-blanco.png": {
+     "name": "logo-compacto-mono-blanco.png",
+     "blob": "8f8ac3b3f90be7177951b807ed720c37",
+     "size": 107115,
+     "type": "image/png"
+    },
+    "logo-compacto-mono-negro.png": {
+     "name": "logo-compacto-mono-negro.png",
+     "blob": "348a6b6b83a0ad983d308ef301b91dea",
+     "size": 99580,
+     "type": "image/png"
+    },
+    "logo-compacto-mono-selva.png": {
+     "name": "logo-compacto-mono-selva.png",
+     "blob": "eb18af1ef589b946a1d0d4cb29009d6a",
+     "size": 108138,
+     "type": "image/png"
+    },
+    "logo-compacto-negativo.png": {
+     "name": "logo-compacto-negativo.png",
+     "blob": "3bf5e79836d8855ce3d6069083a18493",
+     "size": 110380,
+     "type": "image/png"
+    },
+    "logo-horizontal-full.png": {
+     "name": "logo-horizontal-full.png",
+     "blob": "b647140663a521468344182ab7fe3db6",
+     "size": 118624,
+     "type": "image/png"
+    },
+    "logo-horizontal-mono-blanco.png": {
+     "name": "logo-horizontal-mono-blanco.png",
+     "blob": "9ecb95ba338f7f8424a6cbf8e29b9a78",
+     "size": 108662,
+     "type": "image/png"
+    },
+    "logo-horizontal-mono-negro.png": {
+     "name": "logo-horizontal-mono-negro.png",
+     "blob": "07a3c730d15a30ec2f8a39efa210b5bd",
+     "size": 100965,
+     "type": "image/png"
+    },
+    "logo-horizontal-mono-selva.png": {
+     "name": "logo-horizontal-mono-selva.png",
+     "blob": "001070ec77251fa48f16a7e8c5f8eff1",
+     "size": 110278,
+     "type": "image/png"
+    },
+    "logo-horizontal-negativo.png": {
+     "name": "logo-horizontal-negativo.png",
+     "blob": "22143afebd1945868ab1b789fd6c43ea",
+     "size": 113776,
+     "type": "image/png"
+    }
+   }
+  },
+  "Isotipo": {
+   "name": "Isotipo",
+   "tile": "m",
+   "order": [
+    "isotipo-full.png",
+    "isotipo-negativo.png",
+    "isotipo-mono-selva.png",
+    "isotipo-mono-blanco.png",
+    "isotipo-mono-negro.png"
+   ],
+   "files": {
+    "isotipo-full.png": {
+     "name": "isotipo-full.png",
+     "blob": "5fb654bac8f6f7e0e0e8cf4d1336c203",
+     "size": 15336,
+     "type": "image/png"
+    },
+    "isotipo-mono-blanco.png": {
+     "name": "isotipo-mono-blanco.png",
+     "blob": "e75839461a826e30ff7ee1925be027b6",
+     "size": 15301,
+     "type": "image/png"
+    },
+    "isotipo-mono-negro.png": {
+     "name": "isotipo-mono-negro.png",
+     "blob": "96391d03036efb2f7004097cd7b34a31",
+     "size": 13065,
+     "type": "image/png"
+    },
+    "isotipo-mono-selva.png": {
+     "name": "isotipo-mono-selva.png",
+     "blob": "6598856c1c1375757912d53d3e9fc461",
+     "size": 15393,
+     "type": "image/png"
+    },
+    "isotipo-negativo.png": {
+     "name": "isotipo-negativo.png",
+     "blob": "2bb61cbc5a70b4bd9cb083350ec0fdac",
+     "size": 15330,
+     "type": "image/png"
+    }
+   }
+  },
+  "Fotografia": {
+   "name": "Fotografia",
+   "tile": "l",
+   "order": [
+    "candidato-recorte.png",
+    "equipo-rio.jpg",
+    "concejal-ejemplo.png"
+   ],
+   "files": {
+    "candidato-recorte.png": {
+     "name": "candidato-recorte.png",
+     "blob": "bb6a9f98eadaff880b1f2376c7cd6933",
+     "size": 1903817,
+     "type": "image/png"
+    },
+    "equipo-rio.jpg": {
+     "name": "equipo-rio.jpg",
+     "blob": "d233b671f5248c8f4e9ff43c8ee9e3a2",
+     "size": 367848,
+     "type": "image/jpeg"
+    },
+    "concejal-ejemplo.png": {
+     "name": "concejal-ejemplo.png",
+     "blob": "6e32a308063d04c39e944c54ca52a30e",
+     "size": 1460067,
+     "type": "image/png"
+    }
+   }
+  },
+  "Iconos": {
+   "name": "Iconos",
+   "tile": "xs",
+   "order": [
+    "icono-adulto-mayor.svg",
+    "icono-agricultura.svg",
+    "icono-agua.svg",
+    "icono-ambiente.svg",
+    "icono-comunidad.svg",
+    "icono-cultura.svg",
+    "icono-deporte.svg",
+    "icono-educacion.svg",
+    "icono-juventud.svg",
+    "icono-motos.svg",
+    "icono-mujer.svg",
+    "icono-produccion.svg",
+    "icono-salud.svg",
+    "icono-seguridad.svg",
+    "icono-transparencia.svg",
+    "icono-turismo.svg",
+    "icono-vias.svg",
+    "icono-vivienda.svg"
+   ],
+   "files": {
+    "icono-adulto-mayor.svg": {
+     "name": "icono-adulto-mayor.svg",
+     "blob": "654d23e3617bba3fc14ae1b916aba9b6",
+     "size": 641,
+     "type": "image/svg+xml"
+    },
+    "icono-agricultura.svg": {
+     "name": "icono-agricultura.svg",
+     "blob": "29d0c46fc08122ac2cc8c90042f48eb6",
+     "size": 626,
+     "type": "image/svg+xml"
+    },
+    "icono-agua.svg": {
+     "name": "icono-agua.svg",
+     "blob": "e82d2e317f32c490fe0dcad84c704fe5",
+     "size": 572,
+     "type": "image/svg+xml"
+    },
+    "icono-ambiente.svg": {
+     "name": "icono-ambiente.svg",
+     "blob": "d1b310ea287d73f9dc77cd4800c36ec0",
+     "size": 618,
+     "type": "image/svg+xml"
+    },
+    "icono-comunidad.svg": {
+     "name": "icono-comunidad.svg",
+     "blob": "f59e490133f1c0a1b969f6af319f88b8",
+     "size": 772,
+     "type": "image/svg+xml"
+    },
+    "icono-cultura.svg": {
+     "name": "icono-cultura.svg",
+     "blob": "4e9dd62c9526f88be0744ced806e6a31",
+     "size": 551,
+     "type": "image/svg+xml"
+    },
+    "icono-deporte.svg": {
+     "name": "icono-deporte.svg",
+     "blob": "d0849f15e712ddd1f62b93609db010ff",
+     "size": 692,
+     "type": "image/svg+xml"
+    },
+    "icono-educacion.svg": {
+     "name": "icono-educacion.svg",
+     "blob": "579ca3f4d8b3f03c297974efc69e1946",
+     "size": 563,
+     "type": "image/svg+xml"
+    },
+    "icono-juventud.svg": {
+     "name": "icono-juventud.svg",
+     "blob": "b8333a47e6a3b5e304a722c59a9c5385",
+     "size": 625,
+     "type": "image/svg+xml"
+    },
+    "icono-motos.svg": {
+     "name": "icono-motos.svg",
+     "blob": "e2f8ae27d9ccfd0d4f2d3060c9524c1b",
+     "size": 679,
+     "type": "image/svg+xml"
+    },
+    "icono-mujer.svg": {
+     "name": "icono-mujer.svg",
+     "blob": "2b1ae52971673e9a123b6c49b1123756",
+     "size": 564,
+     "type": "image/svg+xml"
+    },
+    "icono-produccion.svg": {
+     "name": "icono-produccion.svg",
+     "blob": "755f2b043a6fd9c229f3fe601b92288c",
+     "size": 626,
+     "type": "image/svg+xml"
+    },
+    "icono-salud.svg": {
+     "name": "icono-salud.svg",
+     "blob": "131cdd1f1934352fd6e432287da64281",
+     "size": 526,
+     "type": "image/svg+xml"
+    },
+    "icono-seguridad.svg": {
+     "name": "icono-seguridad.svg",
+     "blob": "871e29df45bba06b75a4105acf8fe993",
+     "size": 574,
+     "type": "image/svg+xml"
+    },
+    "icono-transparencia.svg": {
+     "name": "icono-transparencia.svg",
+     "blob": "2719573354974a439ec6798d56897575",
+     "size": 592,
+     "type": "image/svg+xml"
+    },
+    "icono-turismo.svg": {
+     "name": "icono-turismo.svg",
+     "blob": "979da77bd855845f2f59cd65f1ab97c9",
+     "size": 585,
+     "type": "image/svg+xml"
+    },
+    "icono-vias.svg": {
+     "name": "icono-vias.svg",
+     "blob": "d526cd0e9df2f5189452b5ca4f131460",
+     "size": 576,
+     "type": "image/svg+xml"
+    },
+    "icono-vivienda.svg": {
+     "name": "icono-vivienda.svg",
+     "blob": "d6f1604c7e511aa81c7a1f0b1a348aa5",
+     "size": 553,
+     "type": "image/svg+xml"
+    }
+   }
+  },
+  "Patrones": {
+   "name": "Patrones",
+   "tile": "m",
+   "order": [
+    "greca-modulo.svg",
+    "rio-conector.svg"
+   ],
+   "files": {
+    "greca-modulo.svg": {
+     "name": "greca-modulo.svg",
+     "blob": "0706fd6d954e5119f1a1180fbcaa635f",
+     "size": 199,
+     "type": "image/svg+xml"
+    },
+    "rio-conector.svg": {
+     "name": "rio-conector.svg",
+     "blob": "0bf947f8dcab37dfadf3d8b09150cfdc",
+     "size": 592,
+     "type": "image/svg+xml"
+    }
+   }
+  },
+  "Movimiento": {
+   "name": "Movimiento",
+   "tile": "m",
+   "order": [
+    "movimiento-full.png",
+    "movimiento-mono-selva.png",
+    "movimiento-mono-blanco.png"
+   ],
+   "files": {
+    "movimiento-full.png": {
+     "name": "movimiento-full.png",
+     "blob": "1c650ca8ecf5599e99dec17d95170544",
+     "size": 156993,
+     "type": "image/png"
+    },
+    "movimiento-mono-selva.png": {
+     "name": "movimiento-mono-selva.png",
+     "blob": "3a23dfd3682581bd610745448f2f3cc7",
+     "size": 81070,
+     "type": "image/png"
+    },
+    "movimiento-mono-blanco.png": {
+     "name": "movimiento-mono-blanco.png",
+     "blob": "1fb4870c2920b6abdee533a5ed91f182",
+     "size": 56002,
+     "type": "image/png"
+    }
+   }
+  },
+  "Plantillas": {
+   "name": "Plantillas",
+   "tile": "m",
+   "order": [
+    "credencial-brigadista-testigo-CR80.jpg",
+    "exterior-banner-vehicular-6496x886.jpg",
+    "exterior-lona-tarima-6x2.5m.jpg",
+    "exterior-valla-8x3m.jpg",
+    "impreso-afiche-A3.jpg",
+    "impreso-diptico-A4-exterior.jpg",
+    "impreso-papeleta-demostrativa-A5.jpg",
+    "impreso-volante-A5.jpg",
+    "merch-bandera-1500x1000.jpg",
+    "merch-camiseta-espalda.jpg",
+    "merch-chaleco-brigadista.jpg",
+    "merch-gorra-frente.jpg",
+    "social-post-1080x1080.jpg",
+    "social-post-1080x1350.jpg",
+    "social-story-reel-1080x1920.jpg",
+    "sticker-auto-200x70mm.jpg",
+    "sticker-moto-circular-100mm.jpg",
+    "sticker-parabrisas-300x80mm.jpg",
+    "video-placa-cierre-1080x1920.jpg",
+    "video-zocalo-1920x1080.jpg"
+   ],
+   "files": {
+    "credencial-brigadista-testigo-CR80.jpg": {
+     "name": "credencial-brigadista-testigo-CR80.jpg",
+     "blob": "c3e3dbf6a235bbf760a52c5455bfce42",
+     "size": 57398,
+     "type": "image/jpeg"
+    },
+    "exterior-banner-vehicular-6496x886.jpg": {
+     "name": "exterior-banner-vehicular-6496x886.jpg",
+     "blob": "a23af6aa192d2c141313c021736fd3d7",
+     "size": 22472,
+     "type": "image/jpeg"
+    },
+    "exterior-lona-tarima-6x2.5m.jpg": {
+     "name": "exterior-lona-tarima-6x2.5m.jpg",
+     "blob": "9463259eb60f887c8188d16d282fe0ef",
+     "size": 53614,
+     "type": "image/jpeg"
+    },
+    "exterior-valla-8x3m.jpg": {
+     "name": "exterior-valla-8x3m.jpg",
+     "blob": "e53aee45f490003127520ef9b75d52c9",
+     "size": 55600,
+     "type": "image/jpeg"
+    },
+    "impreso-afiche-A3.jpg": {
+     "name": "impreso-afiche-A3.jpg",
+     "blob": "e687ba45e04b4d7d77ef50556289e9d4",
+     "size": 102750,
+     "type": "image/jpeg"
+    },
+    "impreso-diptico-A4-exterior.jpg": {
+     "name": "impreso-diptico-A4-exterior.jpg",
+     "blob": "768805e110fed686df508e37daacb87f",
+     "size": 63584,
+     "type": "image/jpeg"
+    },
+    "impreso-papeleta-demostrativa-A5.jpg": {
+     "name": "impreso-papeleta-demostrativa-A5.jpg",
+     "blob": "a94cd6ab519c7e5a0cd9b06895abb66c",
+     "size": 35159,
+     "type": "image/jpeg"
+    },
+    "impreso-volante-A5.jpg": {
+     "name": "impreso-volante-A5.jpg",
+     "blob": "89ea862ec42202b629c3be6664c543b4",
+     "size": 94223,
+     "type": "image/jpeg"
+    },
+    "merch-bandera-1500x1000.jpg": {
+     "name": "merch-bandera-1500x1000.jpg",
+     "blob": "e6b179d0592339c59e6e1dc62ab6f0e6",
+     "size": 66909,
+     "type": "image/jpeg"
+    },
+    "merch-camiseta-espalda.jpg": {
+     "name": "merch-camiseta-espalda.jpg",
+     "blob": "240bce9e1054779a0437dae3e2c37ef1",
+     "size": 53473,
+     "type": "image/jpeg"
+    },
+    "merch-chaleco-brigadista.jpg": {
+     "name": "merch-chaleco-brigadista.jpg",
+     "blob": "62c9c828008d4159efbb07de4708bcf0",
+     "size": 57601,
+     "type": "image/jpeg"
+    },
+    "merch-gorra-frente.jpg": {
+     "name": "merch-gorra-frente.jpg",
+     "blob": "3f1242f7cd3a99c9b0fa1264f6f0407d",
+     "size": 27635,
+     "type": "image/jpeg"
+    },
+    "social-post-1080x1080.jpg": {
+     "name": "social-post-1080x1080.jpg",
+     "blob": "83dccdcb8814de57ad0ca7732423a661",
+     "size": 100532,
+     "type": "image/jpeg"
+    },
+    "social-post-1080x1350.jpg": {
+     "name": "social-post-1080x1350.jpg",
+     "blob": "14a34552f8bebe9724e54cc3b2253369",
+     "size": 127741,
+     "type": "image/jpeg"
+    },
+    "social-story-reel-1080x1920.jpg": {
+     "name": "social-story-reel-1080x1920.jpg",
+     "blob": "11224dbdaeec585ef116015a1d2f75ec",
+     "size": 79455,
+     "type": "image/jpeg"
+    },
+    "sticker-auto-200x70mm.jpg": {
+     "name": "sticker-auto-200x70mm.jpg",
+     "blob": "79ae791c3902de13fda354f3df4e9a47",
+     "size": 33338,
+     "type": "image/jpeg"
+    },
+    "sticker-moto-circular-100mm.jpg": {
+     "name": "sticker-moto-circular-100mm.jpg",
+     "blob": "14512eaad95cac26b4953df8695d61bc",
+     "size": 71345,
+     "type": "image/jpeg"
+    },
+    "sticker-parabrisas-300x80mm.jpg": {
+     "name": "sticker-parabrisas-300x80mm.jpg",
+     "blob": "c210331ab4803eff99ac5579b2d68d3c",
+     "size": 31005,
+     "type": "image/jpeg"
+    },
+    "video-placa-cierre-1080x1920.jpg": {
+     "name": "video-placa-cierre-1080x1920.jpg",
+     "blob": "72b2779068db0731b2496e505ac9ed67",
+     "size": 87246,
+     "type": "image/jpeg"
+    },
+    "video-zocalo-1920x1080.jpg": {
+     "name": "video-zocalo-1920x1080.jpg",
+     "blob": "2dfd8309f0c4a13c950f08abd1599ae8",
+     "size": 16066,
+     "type": "image/jpeg"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "iLeads Agency",
+  "at": "2026-09-29T16:32:29Z",
+  "via": "Claude Code",
+  "note": "Colores del cliente: Hoja #50993D, Lima #C1D305, Oro #9B7C3F, Crema #F8FDEF; logos full y plantillas re-renderizados; tipografía: el nombre del logotipo es la única excepción a Montserrat."
+ }
+}

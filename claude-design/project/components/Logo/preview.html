@@ -1,0 +1,11 @@
+<!-- @dsCard group="Marca" height=260 subtitle="Logo en sus versiones apilado, compacto, horizontal e isotipo" -->
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Logo</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,800;1,900&display=swap"></head>
+<body>
+<div id="root"></div>
+<script>
+var V=window.Villacres,h=React.createElement;
+ReactDOM.createRoot(document.getElementById('root')).render(h(React.Fragment,null,h('div',{className:'vc-row'},h(V.Logo,{version:'apilado',width:260}),h(V.Logo,{version:'horizontal',width:380}),h(V.Logo,{version:'isotipo',width:80})),
+h('div',{className:'vc-row vc-dark'},h(V.Logo,{version:'apilado',color:'negativo',width:220}),h(V.Logo,{version:'compacto',color:'mono-blanco',width:200}),h(V.Logo,{version:'isotipo',color:'negativo',width:70}))));
+</script>
+</body></html>

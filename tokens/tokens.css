@@ -1,0 +1,55 @@
+:root{
+  /* Mesías Villacrés 2026 · Alianza 62-1 · tokens v1.1 (colores del cliente) */
+  --color-selva-50: #EEF4EF;
+  --color-selva-100: #C6D6CD;
+  --color-selva-200: #A3BDAF;
+  --color-selva-300: #82A493;
+  --color-selva-400: #628D78;
+  --color-selva-500: #43765D;
+  --color-selva-600: #255F44;
+  --color-selva-700: #07492A;
+  --color-selva-800: #05351F;
+  --color-selva-900: #032113;
+  --color-hoja-50: #F1F8EC;
+  --color-hoja-100: #CBE2C3;
+  --color-hoja-200: #AACE9F;
+  --color-hoja-300: #8BBC7D;
+  --color-hoja-400: #6DAA5D;
+  --color-hoja-500: #50993D;
+  --color-hoja-600: #438133;
+  --color-hoja-700: #36692A;
+  --color-hoja-800: #295120;
+  --color-hoja-900: #1C3917;
+  --color-oro-600: #9B7C3F;  /* símbolo sobre claro, nunca texto */
+  --color-oro-300: #E2B862;  /* dorado sobre Selva */
+  --color-crema-50: #F8FDEF;
+  --color-blanco: #FFFFFF;
+  --color-tinta-900: #12241A;
+  --color-voto-400: #C1D305; /* SOLO check y CTA de voto */
+
+  --bg-default: var(--color-crema-50);
+  --bg-inverse: var(--color-selva-700);
+  --text-default: var(--color-tinta-900);
+  --text-brand: var(--color-selva-700);
+  --text-on-inverse: var(--color-blanco);
+  --text-small-on-light-green: var(--color-hoja-600);
+  --action-vote: var(--color-voto-400);
+
+  --font-family: 'Montserrat', 'Arial Black', Arial, sans-serif;
+  --font-display-weight: 900;  /* + italic + MAYÚSCULAS */
+  --font-label-weight: 600;    /* + italic + MAYÚSCULAS + tracking .06em */
+  --font-body-weight: 400;     /* recta */
+
+  --skew: 12deg;
+  --radius-box: 0.18em;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-6: 24px; --space-8: 32px; --space-12: 48px; --space-16: 64px; --space-24: 96px;
+
+  --shadow-contact: 0 12px 18px -10px rgba(3,33,19,.35);
+
+  --ease-rio: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-sol: cubic-bezier(0.22, 1, 0.36, 1);
+  --dur-xs: 120ms; --dur-sm: 240ms; --dur-md: 400ms; --dur-lg: 700ms;
+}

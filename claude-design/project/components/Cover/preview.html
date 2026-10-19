@@ -1,0 +1,57 @@
+<!-- @dsCard height=288 -->
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Mesías Villacrés 2026</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500;1,900&display=swap">
+<style>
+  html, body { margin:0; height:100%; }
+  body { background:var(--surface); color:var(--ink); font-family:var(--font-sans); overflow:hidden; }
+  .cover { position:relative; width:960px; height:288px; overflow:hidden; }
+  .band { position:absolute; top:0; left:0; width:960px; height:120px; }
+  .band svg { display:block; }
+  .slab { fill:var(--badge-bg); }
+  .leaf { fill:var(--slogan-box); }
+  .sun { fill:var(--symbol); }
+  .vote { fill:var(--vote-mark); }
+  .blk { rx:var(--radius-md); }
+  .fret { fill:none; stroke:var(--surface); stroke-width:4; stroke-linecap:square; opacity:.9; }
+  .words { position:absolute; left:var(--space-8); bottom:var(--space-8); max-width:900px; }
+  .name { margin:0; font-size:64px; line-height:.95; font-weight:900; font-style:italic; letter-spacing:-.01em; text-transform:uppercase; color:var(--brand-ink); }
+  .tag { margin:var(--space-2) 0 0 4px; font-size:14px; line-height:20px; font-style:italic; font-weight:500; color:var(--ink-muted); }
+</style>
+</head>
+<body>
+<div class="cover">
+<div class="band" aria-hidden="true">
+<svg viewBox="0 0 960 120" width="960" height="120">
+<!--
+  blocks      badge-bg slab 424×136 bled off the top (Selva: the name and the badge) · slogan-box 232×104 (Hoja: PROGRESO) · symbol 120×88 (Oro: el sol-petroglifo) · vote-mark 48×32 once (Lima: solo voto) · ≈ 30 % de 960×288
+  arrangement a strip of unequal bands, all sheared by `skew` 12° like the badge and the PROGRESO box, bottoms stepping up toward the right
+  pattern     greca (espiral cuadrada), the literal motif of "tejido comunitario": 6 módulos de 40 cut into the slab in `surface`, stroke 4 = the greca's own ratio
+  scales      gutters space-3; module 40 = space-8 + space-2; corners radius-md; band 120 tall, name 64px under it (top-band skeleton: the name is wider than 440px)
+-->
+<g transform="translate(26,0) skewX(-12)">
+<rect class="slab blk" x="0" y="-16" width="424" height="136" rx="8"/>
+<rect class="leaf blk" x="436" y="0" width="232" height="104" rx="8"/>
+<rect class="sun blk" x="680" y="0" width="120" height="88" rx="8"/>
+<rect class="vote blk" x="812" y="40" width="48" height="32" rx="8"/>
+</g>
+<g transform="translate(26,0) skewX(-12)">
+<path class="fret" d="M198 102V62h40v34h-32V70h24v16h-10"/>
+<path class="fret" d="M250 102V62h40v34h-32V70h24v16h-10"/>
+<path class="fret" d="M302 102V62h40v34h-32V70h24v16h-10"/>
+<path class="fret" d="M354 102V62h40v34h-32V70h24v16h-10"/>
+<path class="fret" d="M302 50V10h40v34h-32V18h24v16h-10"/>
+<path class="fret" d="M354 50V10h40v34h-32V18h24v16h-10"/>
+</g>
+</svg>
+</div>
+<div class="words">
+<h1 class="name">Mesías Villacrés 2026</h1>
+<p class="tag">Somos Progreso · Alianza 62-1 · Alcaldía de Santa Clara</p>
+</div>
+</div>
+</body>
+</html>
